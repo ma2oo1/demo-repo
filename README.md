@@ -5,8 +5,7 @@ description!
 ## Subheader
 
 Watch tutorial on Youtube!
-why?
-not shown in modified files why
-git
-git
 
+## Local Development
+
+1. Open index.html on your browser.
